@@ -61,6 +61,7 @@ h1{
     border-radius: 5px;
     margin-bottom: 10px;
     background-color: orange;
+    padding: 10px;
 }
 
 .todo-item.checked{
